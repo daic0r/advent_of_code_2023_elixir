@@ -1,0 +1,4 @@
+*.txt
+.hashtags*
+_build/
+.elixir_ls/
